@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr Joe Hickey</title>
+    <link>https://joehickey.org/</link>
+    <description>Recent content on Dr Joe Hickey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language><atom:link href="https://joehickey.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://joehickey.org/about/</link>
+      <pubDate>Sat, 16 Jun 2018 09:57:09 +0100</pubDate>
+      
+      <guid>https://joehickey.org/about/</guid>
+      <description>How I work I am a clinical psychologist providing accessible, creative and evidence-based assessment and therapy in London. I specialise in working with children, adolescents and families experiencing emotional, behavioural and mental health difficulties. I have particular experience in school-based therapies and consultation to education settings.
+I use therapeutic approaches that are supported by research evidence and psychological theory. I have training and experience in interpersonal psychotherapy for adolescents (IPT-A), cognitive behaviour therapy (CBT), behaviour therapy, narrative therapy and attachment-based interventions.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://joehickey.org/contact/</link>
+      <pubDate>Sat, 16 Jun 2018 09:18:57 +0100</pubDate>
+      
+      <guid>https://joehickey.org/contact/</guid>
+      <description>I am not currently accepting new referrals. This page will be updated when new assessments are available.</description>
+    </item>
+    
+  </channel>
+</rss>
